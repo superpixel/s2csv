@@ -1,4 +1,4 @@
 s2csv
 =====
 
-Convert semicolon separated CSV files to comma separated.
+Very simple "Drag & Drop" Application to convert semicolon separated CSV files to comma separated using [CSVfix](http://neilb.bitbucket.org/csvfix/). Written in AppleScript.
